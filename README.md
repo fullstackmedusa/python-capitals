@@ -46,3 +46,4 @@ To play the game:
 - Add a hint functionality that prints the first 3 letters of a capital
 
 
+# python-capitals
